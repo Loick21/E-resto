@@ -1,0 +1,1 @@
+web: java -cp target/classes:target/dependency/* com.Zcorp.eResto.heroku.Main
